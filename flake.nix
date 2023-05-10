@@ -1,1 +1,1 @@
-{ outputs = _: {}; }
+{ outputs = _: { __empty = true; }; }
